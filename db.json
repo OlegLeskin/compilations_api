@@ -25,7 +25,9 @@
         "backgroundImageUrl": "https://295628.selcdn.ru/showcase/images/1.png",
         "currency": {
             "iso": 643,
-            "shortName": "USD"
+            "shortName": [
+              "USD"
+            ]
         },
         "term": {
             "value": 12,
