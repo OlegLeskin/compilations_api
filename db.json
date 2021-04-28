@@ -15,15 +15,6 @@
                 "type": "Акции",
                 "classCode": "TQBR",
                 "weight": 80
-            },
-           {
-                "ticker": "FIVE",
-                "isin": "FIVE",
-                "name": "X5 Retail",
-                "stockExchangeName": "TSE",
-                "type": "Акции",
-                "classCode": "TQBR",
-                "weight": 80
             }
         ],
         "profitability": {
@@ -67,13 +58,6 @@
                 "text": "MAIL",
                 "isin": "MAIL",
                 "ticker": "MAIL",
-                "type": "Акции"
-            },
-          {
-                "header": "FIVE",
-                "text": "FIVE",
-                "isin": "FIVE",
-                "ticker": "FIVE",
                 "type": "Акции"
             }
         ]
