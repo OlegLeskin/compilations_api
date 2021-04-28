@@ -15,15 +15,6 @@
                 "type": "Акции",
                 "classCode": "TQBR",
                 "weight": 80
-            },
-           {
-                "ticker": "OZON",
-                "isin": "OZON",
-                "name": "OZON-адр",
-                "stockExchangeName": "",
-                "type": "Акции",
-                "classCode": "TQBR",
-                "weight": 80
             }
         ],
         "profitability": {
@@ -67,13 +58,6 @@
                 "text": "Капитализация — $700 млрд.",
                 "isin": "MAIL",
                 "ticker": "MAIL",
-                "type": "Акции"
-            },
-          {
-                "header": "Alibaba — китайская компания, один из лидеров электронной коммерции.",
-                "text": "Капитализация — $700 млрд.",
-                "isin": "OZON",
-                "ticker": "OZON",
                 "type": "Акции"
             }
         ]
