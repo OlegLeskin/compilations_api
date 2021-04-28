@@ -7,6 +7,15 @@
         "name": "Модельный портфель",
         "description": "Описание внутри портфеля",
         "baseAssets": [
+          {
+                "ticker": "FIVE",
+                "isin": "FIVE",
+                "name": "FIVE",
+                "stockExchangeName": "TSE",
+                "type": "Акции",
+                "classCode": "TQBR",
+                "weight": 80
+            },
             {
               "ticker": "MAIL",
                 "isin": "MAIL",
@@ -53,6 +62,13 @@
         "header": "Перед вами — самые переоцененные акции, которые торгуются на СПБ, по версии инвестиционного банка Goldman Sachs.",
         "text": "Это настоящий мыльный пузырь, ведь с начала года 39 акций из полного списка выросли на 6%...",
         "quotes": [
+           {
+                "header": "FIVE",
+                "text": "FIVE",
+                "isin": "FIVE",
+                "ticker": "FIVE",
+                "type": "Акции"
+            },
             {
                 "header": "MAIL",
                 "text": "MAIL",
