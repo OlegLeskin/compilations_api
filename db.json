@@ -6,7 +6,7 @@
     "generalParams": {
         "name": "Модельный портфель",
         "description": "Описание внутри портфеля",
-        "baseassets": [
+        "baseAssets": [
             {
                 "ticker": "ANET",
                 "isin": "US0404131064",
