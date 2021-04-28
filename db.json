@@ -8,9 +8,9 @@
         "description": "Описание внутри портфеля",
         "baseAssets": [
             {
-                "ticker": "ANET",
-                "isin": "US0404131064",
-                "name": "Arista Networks",
+                "ticker": "MAIL",
+                "isin": "MAIL",
+                "name": "Mail.ru Group ГДР",
                 "stockExchangeName": "TSE",
                 "type": "Акции",
                 "classCode": "TQBR",
@@ -56,8 +56,8 @@
             {
                 "header": "Alibaba — китайская компания, один из лидеров электронной коммерции.",
                 "text": "Капитализация — $700 млрд.",
-                "isin": "US01609W1027",
-                "ticker": "BABA",
+                "isin": "MAIL",
+                "ticker": "MAIL",
                 "type": "Акции"
             }
         ]
