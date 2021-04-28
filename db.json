@@ -17,10 +17,10 @@
                 "weight": 80
             },
            {
-                "ticker": "OZON",
-                "isin": "OZON",
-                "name": "OZON-адр",
-                "stockExchangeName": "",
+                "ticker": "FIVE",
+                "isin": "FIVE",
+                "name": "X5 Retail",
+                "stockExchangeName": "TSE",
                 "type": "Акции",
                 "classCode": "TQBR",
                 "weight": 80
@@ -70,10 +70,10 @@
                 "type": "Акции"
             },
           {
-                "header": "Alibaba — китайская компания, один из лидеров электронной коммерции.",
-                "text": "Капитализация — $700 млрд.",
-                "isin": "OZON",
-                "ticker": "OZON",
+                "header": "FIVE",
+                "text": "FIVE",
+                "isin": "FIVE",
+                "ticker": "FIVE",
                 "type": "Акции"
             }
         ]
