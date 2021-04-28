@@ -7,15 +7,7 @@
         "name": "Модельный портфель",
         "description": "Описание внутри портфеля",
         "baseAssets": [
-            {
-                "ticker": "MAIL",
-                "isin": "MAIL",
-                "name": "Mail.ru Group ГДР",
-                "stockExchangeName": "TSE",
-                "type": "Акции",
-                "classCode": "TQBR",
-                "weight": 80
-            },
+            
            {
                 "ticker": "FIVE",
                 "isin": "FIVE",
@@ -62,13 +54,7 @@
         "header": "Перед вами — самые переоцененные акции, которые торгуются на СПБ, по версии инвестиционного банка Goldman Sachs.",
         "text": "Это настоящий мыльный пузырь, ведь с начала года 39 акций из полного списка выросли на 6%...",
         "quotes": [
-            {
-                "header": "Alibaba — китайская компания, один из лидеров электронной коммерции.",
-                "text": "Капитализация — $700 млрд.",
-                "isin": "MAIL",
-                "ticker": "MAIL",
-                "type": "Акции"
-            },
+            
           {
                 "header": "FIVE",
                 "text": "FIVE",
