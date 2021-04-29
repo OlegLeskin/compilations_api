@@ -8,9 +8,9 @@
         "description": "Описание внутри портфеля",
         "baseAssets": [
           {
-                "ticker": "BABA",
-                "isin": "US01609W1027",
-                "name": "Alibaba",
+                "ticker": "ANET",
+                "isin": "US0404131064",
+                "name": "Arista Networks",
                 "stockExchangeName": "TSE",
                 "type": "Акции",
                 "classCode": "TQBR",
@@ -63,10 +63,10 @@
         "text": "Это настоящий мыльный пузырь, ведь с начала года 39 акций из полного списка выросли на 6%...",
         "quotes": [
            {
-                "header": "Alibaba — китайская компания, один из лидеров электронной коммерции.",
+                "header": "Arista Networks",
                 "text": "Капитализация — $700 млрд.",
-                "isin": "US01609W1027",
-                "ticker": "BABA",
+                "isin": "US0404131064",
+                "ticker": "ANET",
                 "type": "Акции"
             },
             {
