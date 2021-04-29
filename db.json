@@ -6,16 +6,7 @@
     "generalParams": {
         "name": "Модельный портфель",
         "description": "Описание внутри портфеля",
-        "baseAssets": [
-          {
-                "ticker": "ANET",
-                "isin": "US0404131064",
-                "name": "Arista Networks",
-                "stockExchangeName": "TSE",
-                "type": "Акции",
-                "classCode": "TQBR",
-                "weight": 80
-            },
+        "baseAssets": [                    
             {
               "ticker": "MAIL",
                 "isin": "US5603172082",
@@ -62,13 +53,6 @@
         "header": "Перед вами — самые переоцененные акции, которые торгуются на СПБ, по версии инвестиционного банка Goldman Sachs.",
         "text": "Это настоящий мыльный пузырь, ведь с начала года 39 акций из полного списка выросли на 6%...",
         "quotes": [
-           {
-                "header": "Arista Networks",
-                "text": "Капитализация — $700 млрд.",
-                "isin": "US0404131064",
-                "ticker": "ANET",
-                "type": "Акции"
-            },
             {
                 "header": "ГДР Mail.ru Group Limited",
                 "text": "Mail.ru Group&nbsp;&mdash; российская технологическая компания, развивающая множетсво различных сервисов, включая почту Mail.ru, социальные сети ВКонтакте и Одноклассники",
