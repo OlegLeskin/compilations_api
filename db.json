@@ -8,9 +8,9 @@
         "description": "Описание внутри портфеля",
         "baseAssets": [
           {
-                "ticker": "FIVE",
-                "isin": "FIVE",
-                "name": "FIVE",
+                "ticker": "BABA",
+                "isin": "US01609W1027",
+                "name": "Alibaba",
                 "stockExchangeName": "TSE",
                 "type": "Акции",
                 "classCode": "TQBR",
@@ -18,8 +18,8 @@
             },
             {
               "ticker": "MAIL",
-                "isin": "MAIL",
-                "name": "MAIL",
+                "isin": "US5603172082",
+                "name": "Mail.ru Group ГДР",
                 "stockExchangeName": "TSE",
                 "type": "Акции",
                 "classCode": "TQBR",
@@ -63,16 +63,16 @@
         "text": "Это настоящий мыльный пузырь, ведь с начала года 39 акций из полного списка выросли на 6%...",
         "quotes": [
            {
-                "header": "FIVE",
-                "text": "FIVE",
-                "isin": "FIVE",
-                "ticker": "FIVE",
+                "header": "Alibaba — китайская компания, один из лидеров электронной коммерции.",
+                "text": "Капитализация — $700 млрд.",
+                "isin": "US01609W1027",
+                "ticker": "BABA",
                 "type": "Акции"
             },
             {
-                "header": "MAIL",
-                "text": "MAIL",
-                "isin": "MAIL",
+                "header": "ГДР Mail.ru Group Limited",
+                "text": "Mail.ru Group&nbsp;&mdash; российская технологическая компания, развивающая множетсво различных сервисов, включая почту Mail.ru, социальные сети ВКонтакте и Одноклассники",
+                "isin": "US5603172082",
                 "ticker": "MAIL",
                 "type": "Акции"
             }
