@@ -24,6 +24,15 @@
                 "type": "Акции",
                 "classCode": "TQBR",
                 "weight": 80
+            },
+          {
+              "ticker": "VTBR",
+                "isin": "RU000A0JP5V6",
+                "name": "ВТБ",
+                "stockExchangeName": "MOEX",
+                "type": "Акции",
+                "classCode": "TQBR",
+                "weight": 80
             }
         ],
         "profitability": {
@@ -64,7 +73,7 @@
         "quotes": [
             {
                 "header": "ГДР Mail.ru Group Limited",
-                "text": "Mail.ru Group&nbsp;&mdash; российская технологическая компания, развивающая множетсво различных сервисов, включая почту Mail.ru, социальные сети ВКонтакте и Одноклассники",
+                "text": "Mail.ru Group - российская технологическая компания, развивающая множетсво различных сервисов, включая почту Mail.ru, социальные сети ВКонтакте и Одноклассники",
                 "isin": "US5603172082",
                 "ticker": "MAIL",
                 "type": "Акции"
