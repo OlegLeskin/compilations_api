@@ -33,15 +33,6 @@
                 "type": "Акции",
                 "classCode": "TQBR",
                 "weight": 80
-            },
-           {
-              "ticker": "PM",
-                "isin": "US7181721090",
-                "name": "Philip Morris International Inc.",
-                "stockExchangeName": "MOEX",
-                "type": "Акции",
-                "classCode": "TQBR",
-                "weight": 80
             }
         ],
         "profitability": {
