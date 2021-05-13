@@ -33,6 +33,15 @@
                 "type": "Акции",
                 "classCode": "TQBR",
                 "weight": 80
+            },
+           {
+              "ticker": "XS0830192711",
+                "isin": "XS0830192711",
+                "name": "Газпром нефть-03-22-евро",
+                "stockExchangeName": "MOEX",
+                "type": "Облигации",
+                "classCode": "TQOD",
+                "weight": 80
             }
         ],
         "profitability": {
@@ -84,6 +93,13 @@
                 "isin": "RU0009033591",
                 "ticker": "TATN",
                 "type": "Акции"
+            },
+          {
+                "header": "Газпром нефть-03-22-евро",
+                "text": "Газпром нефть-03-22-евро",
+                "isin": "XS0830192711",
+                "ticker": "XS0830192711",
+                "type": "Облигации"
             }
         ]
     },
