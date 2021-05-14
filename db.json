@@ -16,15 +16,6 @@
                 "classCode": "TQBR",
                 "weight": 80
             },
-            {
-              "ticker": "TATN",
-                "isin": "RU0009033591",
-                "name": "Татнефть",
-                "stockExchangeName": "MOEX",
-                "type": "Акции",
-                "classCode": "TQBR",
-                "weight": 80
-            },
           {
               "ticker": "VTBR",
                 "isin": "RU000A0JP5V6",
@@ -85,13 +76,6 @@
                 "text": "Mail.ru Group - российская технологическая компания, развивающая множетсво различных сервисов, включая почту Mail.ru, социальные сети ВКонтакте и Одноклассники",
                 "isin": "US5603172082",
                 "ticker": "MAIL",
-                "type": "Акции"
-            },
-           {
-                "header": "Татнефть",
-                "text": "Татнефть, акции обыкновенные (МосБиржа)",
-                "isin": "RU0009033591",
-                "ticker": "TATN",
                 "type": "Акции"
             },
           {
